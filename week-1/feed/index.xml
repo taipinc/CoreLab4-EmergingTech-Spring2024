@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Week 1	</title>
-	<atom:link href="CoreLab4-EmergingTech-Spring2024//week-1/feed/" rel="self" type="application/rss+xml" />
-	<link>CoreLab4-EmergingTech-Spring2024//week-1/</link>
+	<atom:link href="/CoreLab4-EmergingTech-Spring2024/week-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/CoreLab4-EmergingTech-Spring2024/week-1/</link>
 	<description>Spring 2024, Shabtai Pinchevsky, Parsons School of Design</description>
 	<lastBuildDate>Tue, 23 Jan 2024 05:42:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

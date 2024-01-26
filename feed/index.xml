@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Core Lab 4: Emerging Technologie</title>
-	<atom:link href="CoreLab4-EmergingTech-Spring2024//feed/" rel="self" type="application/rss+xml" />
-	<link>CoreLab4-EmergingTech-Spring2024//</link>
+	<atom:link href="/CoreLab4-EmergingTech-Spring2024/feed/" rel="self" type="application/rss+xml" />
+	<link>/CoreLab4-EmergingTech-Spring2024/</link>
 	<description>Spring 2024, Shabtai Pinchevsky, Parsons School of Design</description>
 	<lastBuildDate>Tue, 23 Jan 2024 17:51:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Video Workshop: Building a Good and Free (or almost free) Artist Website</title>
-		<link>CoreLab4-EmergingTech-Spring2024//video-workshop-building-a-good-and-free-or-almost-free-artist-website/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/video-workshop-building-a-good-and-free-or-almost-free-artist-website/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 17:51:01 +0000</pubDate>
 				<category><![CDATA[extra]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=135</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=135</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -36,12 +36,12 @@
 			</item>
 		<item>
 		<title>Video Workshop: Runway.ml</title>
-		<link>CoreLab4-EmergingTech-Spring2024//video-workshop-runway-ml/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/video-workshop-runway-ml/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 17:50:23 +0000</pubDate>
 				<category><![CDATA[extra]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=133</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=133</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -51,12 +51,12 @@
 			</item>
 		<item>
 		<title>Video Workshop: GitHub</title>
-		<link>CoreLab4-EmergingTech-Spring2024//video-workshop-github/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/video-workshop-github/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 17:50:07 +0000</pubDate>
 				<category><![CDATA[extra]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=131</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=131</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -66,12 +66,12 @@
 			</item>
 		<item>
 		<title>Video Workshop: Publishing Your Work on the Web</title>
-		<link>CoreLab4-EmergingTech-Spring2024//video-workshop-publishing-your-work-on-the-web/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/video-workshop-publishing-your-work-on-the-web/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 17:49:02 +0000</pubDate>
 				<category><![CDATA[extra]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=129</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=129</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -81,12 +81,12 @@
 			</item>
 		<item>
 		<title>Video Workshop: Working with p5.js with no internet</title>
-		<link>CoreLab4-EmergingTech-Spring2024//video-workshop-working-with-p5-js-with-no-internet/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/video-workshop-working-with-p5-js-with-no-internet/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 17:48:37 +0000</pubDate>
 				<category><![CDATA[extra]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=127</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=127</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -96,12 +96,12 @@
 			</item>
 		<item>
 		<title>Week 15</title>
-		<link>CoreLab4-EmergingTech-Spring2024//week-15/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/week-15/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 05:45:02 +0000</pubDate>
 				<category><![CDATA[final week]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=113</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=113</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -111,12 +111,12 @@
 			</item>
 		<item>
 		<title>Week 14</title>
-		<link>CoreLab4-EmergingTech-Spring2024//week-14/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/week-14/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 05:44:42 +0000</pubDate>
 				<category><![CDATA[photographic spaces]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=111</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=111</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -126,12 +126,12 @@
 			</item>
 		<item>
 		<title>Week 13</title>
-		<link>CoreLab4-EmergingTech-Spring2024//week-13/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/week-13/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 05:44:31 +0000</pubDate>
 				<category><![CDATA[photographic spaces]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=109</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=109</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -141,12 +141,12 @@
 			</item>
 		<item>
 		<title>Week 12</title>
-		<link>CoreLab4-EmergingTech-Spring2024//week-12/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/week-12/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 05:44:21 +0000</pubDate>
 				<category><![CDATA[photographic spaces]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=107</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=107</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -156,12 +156,12 @@
 			</item>
 		<item>
 		<title>Week 10</title>
-		<link>CoreLab4-EmergingTech-Spring2024//week-10/</link>
+		<link>/CoreLab4-EmergingTech-Spring2024/week-10/</link>
 		
 		<dc:creator><![CDATA[pinchevs]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2024 05:43:51 +0000</pubDate>
 				<category><![CDATA[generativity]]></category>
-		<guid isPermaLink="false">CoreLab4-EmergingTech-Spring2024//?p=105</guid>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=105</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
