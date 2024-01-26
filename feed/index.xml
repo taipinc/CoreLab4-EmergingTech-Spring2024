@@ -12,7 +12,7 @@
 	<atom:link href="/CoreLab4-EmergingTech-Spring2024/feed/" rel="self" type="application/rss+xml" />
 	<link>/CoreLab4-EmergingTech-Spring2024/</link>
 	<description>Spring 2024, Shabtai Pinchevsky, Parsons School of Design</description>
-	<lastBuildDate>Tue, 23 Jan 2024 17:51:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Jan 2024 05:17:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
+		<title>bla bla</title>
+		<link>/CoreLab4-EmergingTech-Spring2024/bla-bla/</link>
+		
+		<dc:creator><![CDATA[pinchevs]]></dc:creator>
+		<pubDate>Fri, 26 Jan 2024 05:16:23 +0000</pubDate>
+				<category><![CDATA[interactivity]]></category>
+		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=163</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Video Workshop: Building a Good and Free (or almost free) Artist Website</title>
 		<link>/CoreLab4-EmergingTech-Spring2024/video-workshop-building-a-good-and-free-or-almost-free-artist-website/</link>
 		
@@ -147,21 +162,6 @@
 		<pubDate>Tue, 23 Jan 2024 05:44:21 +0000</pubDate>
 				<category><![CDATA[photographic spaces]]></category>
 		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=107</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Week 10</title>
-		<link>/CoreLab4-EmergingTech-Spring2024/week-10/</link>
-		
-		<dc:creator><![CDATA[pinchevs]]></dc:creator>
-		<pubDate>Tue, 23 Jan 2024 05:43:51 +0000</pubDate>
-				<category><![CDATA[generativity]]></category>
-		<guid isPermaLink="false">/CoreLab4-EmergingTech-Spring2024/?p=105</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
