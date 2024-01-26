@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Core Lab 4: Emerging Technologie	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://taipinc.github.io/CoreLab4-EmergingTech-Spring2024//comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://taipinc.github.io/CoreLab4-EmergingTech-Spring2024//</link>
 	<description>Spring 2024, Shabtai Pinchevsky, Parsons School of Design</description>
 	<lastBuildDate>Wed, 24 Jan 2024 00:11:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

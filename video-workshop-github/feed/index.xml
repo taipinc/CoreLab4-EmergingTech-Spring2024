@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Video Workshop: GitHub	</title>
-	<atom:link href="/video-workshop-github/feed/" rel="self" type="application/rss+xml" />
-	<link>/video-workshop-github/</link>
+	<atom:link href="https://taipinc.github.io/CoreLab4-EmergingTech-Spring2024//video-workshop-github/feed/" rel="self" type="application/rss+xml" />
+	<link>https://taipinc.github.io/CoreLab4-EmergingTech-Spring2024//video-workshop-github/</link>
 	<description>Spring 2024, Shabtai Pinchevsky, Parsons School of Design</description>
 	<lastBuildDate>Tue, 23 Jan 2024 17:50:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
